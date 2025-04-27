@@ -1,4 +1,4 @@
-# Federated Multi-Agent Reinforcement Learning for Ultra-Dense 6G IoT Networks with Privacy Preservation
+# Privacy-Preserving Federated Multi-Agent Reinforcement Learning for Dynamic Spectrum Management in Ultra-Dense 6G IoT Networks
 
 ## Project Overview
 This project implements a **Federated Multi-Agent Reinforcement Learning (MARL)** framework for spectrum allocation in **ultra-dense 6G IoT networks**, focusing on **privacy preservation**. The goal is to design an optimal spectrum allocation strategy that improves throughput, fairness, and interference management, while ensuring data privacy using federated learning techniques.
